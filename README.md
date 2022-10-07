@@ -23,7 +23,9 @@ I'm open to leveraging my data analytics skills in a data-driven world📈
 * Qlik Sense, 
 * Power BI, 
 * Microsoft Office
+## Statistics📉
 
+![Temitopeoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemitopeoluwaGiwa&show_icons=true&theme=dark)
 <!--
 **TemitopeoluwaGiwa/TemitopeoluwaGiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
